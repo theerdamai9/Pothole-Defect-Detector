@@ -51,6 +51,10 @@ streamlit run app.py
 Dataset: [Pothole Detection YOLOv8 - Roboflow](https://universe.roboflow.com/gerapothole/pothole-detection-yolov8/dataset/1)
 
 Dataset license: CC BY 4.0. Attribution to the dataset creator is required.
+## 🚀 Live Demo
+
+Try the application here:
+https://pothole-defect-detector-2mcn4hvaefvwjr7b2zddkn.streamlit.app/
 
 ## Author
 
